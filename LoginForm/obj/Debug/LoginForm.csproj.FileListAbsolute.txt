@@ -1,0 +1,20 @@
+C:\Users\Tina\Desktop\TiNa\Sk\OZI\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Tina\Desktop\TiNa\Sk\OZI\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Tina\Desktop\TiNa\Sk\OZI\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Tina\Desktop\TiNa\Sk\OZI\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Desktop\TiNa\Sk\OZI\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Tina\Desktop\TiNa\Sk\OZI\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Tina\Desktop\TiNa\Sk\OZI\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\Tina\Desktop\TiNa\Sk\OZI\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Tina\Desktop\TiNa\Sk\OZI\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tina\Documents\Visual Studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Form2.resources

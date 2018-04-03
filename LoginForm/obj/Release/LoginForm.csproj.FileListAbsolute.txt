@@ -1,0 +1,9 @@
+c:\users\tina\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Release\LoginForm.exe.config
+c:\users\tina\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Release\LoginForm.exe
+c:\users\tina\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Release\LoginForm.pdb
+c:\users\tina\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Release\SQLite.NET.dll
+c:\users\tina\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Release\LoginForm.Form1.resources
+c:\users\tina\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Release\LoginForm.Properties.Resources.resources
+c:\users\tina\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Release\LoginForm.csproj.GenerateResource.Cache
+c:\users\tina\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Release\LoginForm.exe
+c:\users\tina\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Release\LoginForm.pdb
